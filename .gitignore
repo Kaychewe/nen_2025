@@ -33,3 +33,4 @@ __pycache__/
 *.lot
 *.synctex.gz
 data/
+manuscript/
