@@ -8,16 +8,3 @@ We profiled 36 FFPE NENs from 11 anatomical sites using a targeted 784-gene tran
 Orthogonal validation confirmed these findings at multiple levels: subtype-specific protein expression by immunohistochemistry (e.g., EZH2, PAK3) and independent DNA methylation profiling from an external lung NEN cohort demonstrated concordant stratification and increased epigenetic stemness in PD-NECs. Together, transcriptomic and epigenetic analyses reveal a conserved differentiation state that transcends anatomical origin.
 
 Integrated multi-omic profiling identifies a tissue-agnostic differentiation axis that robustly stratifies neuroendocrine neoplasms and provides biologically interpretable biomarkers for resolving histologic ambiguity. These findings establish differentiation state as a unifying molecular framework for NEN classification and suggest a foundation for future diagnostic and therapeutic development.
-
-## Core Figures
-- Figure 1: `figures/fig1/Figure 1.pdf`
-- Figure 2: `figures/fig2/Figure 2.pdf`
-- Figure 4: `figures/fig4/Figure 4.pdf`
-- Figure 6: `figures/fig6/Figure 6.pdf`
-
-## Repository Structure
-- `code/` analysis scripts
-- `figures/` main and per-panel figures
-- `tables/` summary tables and ML outputs
-- `manuscript/` LaTeX and manuscript sections
-- `supplementary/` supplementary figures/tables/data
