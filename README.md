@@ -1,1 +1,23 @@
 # nen_2025
+
+## Abstract
+Neuroendocrine neoplasms (NENs) comprise biologically heterogeneous tumors whose classification into well-differentiated neuroendocrine tumors (WD-NETs) and poorly differentiated neuroendocrine carcinomas (PD-NECs) remains clinically challenging. Morphology and proliferation indices alone often fail to resolve high-grade cases, motivating molecular frameworks that capture differentiation state across tissues.
+
+We profiled 36 FFPE NENs from 11 anatomical sites using a targeted 784-gene transcriptomic panel and developed interpretable machine-learning classifiers to model histologic differentiation. Across cross-validation, models achieved stable discrimination between WD-NETs and PD-NECs (87–93% accuracy). Feature attribution identified a conserved molecular axis separating lineage-preserved WD-NETs from proliferative, replication stress–enriched PD-NECs. WD-NETs retained neuroendocrine and neuronal signaling programs, whereas PD-NECs exhibited activation of cell-cycle, DNA damage response, and chromatin-regulatory pathways.
+
+Orthogonal validation confirmed these findings at multiple levels: subtype-specific protein expression by immunohistochemistry (e.g., EZH2, PAK3) and independent DNA methylation profiling from an external lung NEN cohort demonstrated concordant stratification and increased epigenetic stemness in PD-NECs. Together, transcriptomic and epigenetic analyses reveal a conserved differentiation state that transcends anatomical origin.
+
+Integrated multi-omic profiling identifies a tissue-agnostic differentiation axis that robustly stratifies neuroendocrine neoplasms and provides biologically interpretable biomarkers for resolving histologic ambiguity. These findings establish differentiation state as a unifying molecular framework for NEN classification and suggest a foundation for future diagnostic and therapeutic development.
+
+## Core Figures
+- Figure 1: `figures/fig1/Figure 1.pdf`
+- Figure 2: `figures/fig2/Figure 2.pdf`
+- Figure 4: `figures/fig4/Figure 4.pdf`
+- Figure 6: `figures/fig6/Figure 6.pdf`
+
+## Repository Structure
+- `code/` analysis scripts
+- `figures/` main and per-panel figures
+- `tables/` summary tables and ML outputs
+- `manuscript/` LaTeX and manuscript sections
+- `supplementary/` supplementary figures/tables/data

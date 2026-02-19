@@ -32,3 +32,4 @@ __pycache__/
 *.lof
 *.lot
 *.synctex.gz
+data/
