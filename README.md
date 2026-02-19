@@ -1,4 +1,4 @@
-# nen_2025
+# Integrated transcriptomic and epigenetic profiling reveals a conserved differentiation state in neuroendocrine neoplasms
 
 ## Abstract
 Neuroendocrine neoplasms (NENs) comprise biologically heterogeneous tumors whose classification into well-differentiated neuroendocrine tumors (WD-NETs) and poorly differentiated neuroendocrine carcinomas (PD-NECs) remains clinically challenging. Morphology and proliferation indices alone often fail to resolve high-grade cases, motivating molecular frameworks that capture differentiation state across tissues.
