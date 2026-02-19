@@ -1,0 +1,37 @@
+expr_sample_id	sample_id	primary_site	primary_site_inferred	nen_subtype	split
+CO14-3067	CO14-3067	Unknown	Esophagus	WD	test
+SC08-3655	SC08-3655	ileum	ileum	WD	train
+SC13-1136	SC13-1136	Pancreas	Pancreas	WD	train
+SC13-2649	SC13-2649	Small bowel	Esophagus	WD	test
+SC13-3307	SC13-3307	Cecum	Cecum	WD	train
+SC13-4067	SC13-4067	Small bowel	Small bowel	WD	train
+SC14-1890	SC14-1890	Colon	ileum	WD	test
+SC14-2227	SC14-2227	Breast	Pancreas	WD	train
+SC14-2414	SC14-2414	Lung	Small bowel	WD	train
+SC14-2520	SC14-2520	Small bowel	ileum	WD	train
+SC14-299	SC14-299	Small bowel	Unknown	WD	test
+SC14-3805	SC14-3805	Rectum	Pancreas	WD	test
+SC14-3857	SC14-3857	ileum	Small bowel	WD	train
+SC14-4015	SC14-4015	ileum	Small bowel	WD	train
+SC14-4289	SC14-4289	Unknown	Unknown	WD	train
+SC14-469	SC14-469	Cecum	Cecum	WD	train
+SC15-1005	SC15-1005	Esophagus	Small bowel	WD	test
+SC15-349	SC15-349	Lung	Pancreas	WD	test
+SC15-383	SC15-383	Cecum	Pancreas	WD	train
+SC15-584	SC15-584	Unknown	Unknown	WD	test
+SC15-615	SC15-615	Breast	Pancreas	WD	train
+SC15-651	SC15-651	Unknown	Unknown	WD	train
+SO11-2366	SO11-2366	NA	Pancreas	WD	train
+SO11-463	SO11-463	ileum	Small bowel	WD	train
+SO11-5496	SO11-5496	Pancreas	Pancreas	WD	train
+SO12-5870	SO12-5870	ileum	ileum	WD	train
+SO13-4426	SO13-4426	Stomach	Pancreas	WD	train
+SO13-5018	SO13-5018	Small bowel	ileum	WD	test
+SO13-6942	SO13-6942	Stomach	Pancreas	WD	test
+SO13-7554	SO13-7554	Pancreas	Unknown	WD	train
+SO13-7742	SO13-7742	Unknown	Pancreas	WD	train
+SO13-7790	SO13-7790	Pancreas	Breast	WD	train
+SO14-1358	SO14-1358	Rectum	Cecum	WD	train
+SO15-3504	SO15-3504	ileum	ileum	WD	train
+SO15-4253	SO15-4253	Colon	Cecum	WD	train
+SO15-4709	SO15-4709	Pancreas	Stomach	WD	test

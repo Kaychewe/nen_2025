@@ -1,0 +1,56 @@
+\documentclass[12pt]{article}
+
+\usepackage[margin=0.5in]{geometry}
+\usepackage{fontspec}
+\setmainfont{DejaVu Serif}
+\usepackage{setspace}
+\usepackage{lineno}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{calc}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=numeric,sorting=none,doi=false,url=false]{biblatex}
+\usepackage{makecell}
+\emergencystretch=1.5em
+\AtBeginBibliography{\sloppy\raggedright}
+\renewcommand{\bibfont}{\small\sloppy\raggedright}
+
+\addbibresource{references.bib}
+
+\title{Integrated transcriptomic and epigenetic profiling reveals a conserved differentiation state in neuroendocrine neoplasms}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\onehalfspacing
+\linenumbers
+\setcounter{secnumdepth}{0}
+
+% Title page
+\input{../sections/titlepage.tex}
+
+% Abstract + Keywords
+\input{../sections/abstract.tex}
+\input{../sections/keywords.tex}
+
+% Main text
+\input{../sections/background.tex}
+\input{../sections/results.tex}
+\input{../sections/discussion.tex}
+\input{../sections/conclusions.tex}
+
+% Methods (after Conclusions)
+\input{../sections/methods.tex}
+
+% Declarations
+\input{../sections/declarations.tex}
+\input{../sections/data_availability.tex}
+
+\clearpage
+\printbibliography
+
+\end{document}

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='576.00pt' height='432.00pt' viewBox='0 0 576.00 432.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<rect x='0.00' y='0.00' width='576.00' height='432.00' style='stroke-width: 2.56; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMjU5Ljk3fDU2OS4wM3wzMi4wNHwzNzYuNjA='>
+    <rect x='259.97' y='32.04' width='309.06' height='344.56' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjU5Ljk3fDU2OS4wM3wzMi4wNHwzNzYuNjA=)'>
+<rect x='259.97' y='32.04' width='309.06' height='344.56' style='stroke-width: 2.56; stroke: none;' />
+<rect x='274.02' y='42.54' width='209.39' height='29.41' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F0E; fill-opacity: 0.90;' />
+<rect x='274.02' y='84.56' width='101.05' height='29.41' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F0E; fill-opacity: 0.90;' />
+<rect x='274.02' y='126.58' width='86.71' height='29.41' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F0E; fill-opacity: 0.90;' />
+<rect x='274.02' y='168.60' width='82.65' height='29.41' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F0E; fill-opacity: 0.90;' />
+<rect x='274.02' y='294.66' width='77.65' height='29.41' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F0E; fill-opacity: 0.90;' />
+<rect x='274.02' y='336.68' width='77.65' height='29.41' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F0E; fill-opacity: 0.90;' />
+<rect x='274.02' y='252.64' width='77.65' height='29.41' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F0E; fill-opacity: 0.90;' />
+<rect x='274.02' y='210.62' width='77.65' height='29.41' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F0E; fill-opacity: 0.90;' />
+<rect x='259.97' y='32.04' width='309.06' height='344.56' style='stroke-width: 2.56;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<text x='252.65' y='354.61' text-anchor='end' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='41.50px' lengthAdjust='spacingAndGlyphs'>Cell cycle</text>
+<text x='252.65' y='312.59' text-anchor='end' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='100.67px' lengthAdjust='spacingAndGlyphs'>DNA metabolic process</text>
+<text x='252.65' y='270.57' text-anchor='end' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='147.00px' lengthAdjust='spacingAndGlyphs'>Homologous recombination repair</text>
+<text x='252.65' y='228.55' text-anchor='end' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='97.00px' lengthAdjust='spacingAndGlyphs'>recombinational repair</text>
+<text x='252.65' y='186.53' text-anchor='end' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='245.67px' lengthAdjust='spacingAndGlyphs'>negative regulation of transcription by RNA polymerase II</text>
+<text x='252.65' y='144.51' text-anchor='end' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='155.50px' lengthAdjust='spacingAndGlyphs'>Inhibition of epithelial differentiation</text>
+<text x='252.65' y='102.49' text-anchor='end' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='161.50px' lengthAdjust='spacingAndGlyphs'>Regulation of epithelial differentiation</text>
+<text x='252.65' y='60.47' text-anchor='end' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='67.17px' lengthAdjust='spacingAndGlyphs'>DNA replication</text>
+<polyline points='254.39,351.39 259.97,351.39 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='254.39,309.37 259.97,309.37 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='254.39,267.35 259.97,267.35 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='254.39,225.33 259.97,225.33 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='254.39,183.31 259.97,183.31 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='254.39,141.29 259.97,141.29 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='254.39,99.27 259.97,99.27 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='254.39,57.25 259.97,57.25 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='274.02,382.18 274.02,376.60 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='367.67,382.18 367.67,376.60 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='461.32,382.18 461.32,376.60 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<polyline points='554.98,382.18 554.98,376.60 ' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: square;' />
+<text x='274.02' y='395.89' text-anchor='middle' style='font-size: 13.30px; font-weight: bold; font-family: "Arial";' textLength='7.39px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='367.67' y='395.89' text-anchor='middle' style='font-size: 13.30px; font-weight: bold; font-family: "Arial";' textLength='7.39px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='461.32' y='395.89' text-anchor='middle' style='font-size: 13.30px; font-weight: bold; font-family: "Arial";' textLength='7.39px' lengthAdjust='spacingAndGlyphs'>4</text>
+<text x='554.98' y='395.89' text-anchor='middle' style='font-size: 13.30px; font-weight: bold; font-family: "Arial";' textLength='7.39px' lengthAdjust='spacingAndGlyphs'>6</text>
+<text x='321.14' y='418.39' style='font-size: 14.00px; font-family: "Arial";' textLength='8.17px' lengthAdjust='spacingAndGlyphs'>−</text>
+<text x='331.26' y='418.39' style='font-size: 14.00px; font-family: "Arial";' textLength='3.11px' lengthAdjust='spacingAndGlyphs'>l</text>
+<text x='334.37' y='418.39' style='font-size: 14.00px; font-family: "Arial";' textLength='7.78px' lengthAdjust='spacingAndGlyphs'>o</text>
+<text x='342.15' y='418.39' style='font-size: 14.00px; font-family: "Arial";' textLength='7.78px' lengthAdjust='spacingAndGlyphs'>g</text>
+<text x='349.94' y='420.94' style='font-size: 9.80px; font-family: "Arial";' textLength='10.91px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='360.84' y='418.39' style='font-size: 17.50px; font-family: "Arial";' textLength='5.83px' lengthAdjust='spacingAndGlyphs'>(</text>
+<text x='366.67' y='418.39' style='font-size: 14.00px; font-family: "Arial";' textLength='135.34px' lengthAdjust='spacingAndGlyphs'>FDR-adjusted p value</text>
+<text x='502.02' y='418.39' style='font-size: 17.50px; font-family: "Arial";' textLength='5.83px' lengthAdjust='spacingAndGlyphs'>)</text>
+<text x='414.50' y='15.57' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='46.02px' lengthAdjust='spacingAndGlyphs'>PD-NEC</text>
+</g>
+</g>
+</svg>
