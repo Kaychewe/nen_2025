@@ -1,0 +1,14 @@
+Dear Editors,
+
+Please consider our manuscript, “Integrated transcriptomic and epigenetic profiling reveals a conserved differentiation state in neuroendocrine neoplasms,” for publication in Genome Biology. Neuroendocrine neoplasms are clinically heterogeneous, and resolving well‑differentiated NETs from poorly differentiated NECs remains challenging with morphology and proliferation markers alone.
+
+We present an integrated, multi‑omic study of 36 FFPE NENs profiled by a targeted transcriptomic panel, with interpretable machine‑learning classifiers that achieve robust WD‑NET vs PD‑NEC discrimination. Feature attribution identifies coherent biological programs, and key findings are validated orthogonally by immunohistochemistry and independent lung NEN DNA methylation data, revealing a conserved differentiation axis across tissues. The work provides biologically interpretable biomarkers and a framework for molecular classification that should be of broad interest to Genome Biology’s readership.
+
+This study is primarily computational and uses de‑identified human data. There are no ethical exceptions to report. All authors have approved the final manuscript, and there are no competing interests.
+
+Thank you for your consideration.
+
+Sincerely,
+Hayan Lee, PhD
+Fox Chase Cancer Center
+Corresponding author: hayan.lee@fccc.edu

@@ -1,0 +1,4 @@
+contrast	total_tests	dmp_sig	dmp_hyper	dmp_hypo	dmp_promoter_prox	dmp_island_or_shore
+NEC vs NET	732445	22075	11806	10269	6300	8085
+NET vs Normal	732445	37066	11247	25819	9677	8475
+NEC vs Normal	732445	27929	9296	18633	7316	9517
